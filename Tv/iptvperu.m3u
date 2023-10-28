@@ -540,3 +540,10 @@ https://stream.ads.ottera.tv/cl/230927ckabusm3pdfp97o02ir0/1280x720_3071200_0_f.
 
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,Israel: Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1,Israel: هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+
