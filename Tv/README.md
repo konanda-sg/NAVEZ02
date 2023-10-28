@@ -7,3 +7,4 @@ Non-commercial benefit!! Thank you for understanding!! :)
 - https://raw.githubusercontent.com/Navezjt/IPTV02/master/Tv/ATIM_BOSTON.m3u8
 - https://github.com/antholyber1a
 - https://github.com/OngisMbois/IPTV-PREMIUM/tree/main
+- https://github.com/SUSMANSUS/ISRAEL-CHANNELS-FOR-IPTV-vENGLISH.M3U
