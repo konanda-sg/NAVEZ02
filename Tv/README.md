@@ -8,3 +8,4 @@ Non-commercial benefit!! Thank you for understanding!! :)
 - https://github.com/antholyber1a
 - https://github.com/OngisMbois/IPTV-PREMIUM/tree/main
 - https://github.com/SUSMANSUS/ISRAEL-CHANNELS-FOR-IPTV-vENGLISH.M3U
+- https://github.com/Ziber-t/FreeIpTvChannels
