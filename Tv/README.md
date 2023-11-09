@@ -13,4 +13,4 @@ Non-commercial benefit!! Thank you for understanding!! :)
 - https://github.com/dominiotv777/mejortv.m3u - https://github.com/dominiotv777/youtupremium
 - https://github.com/dmucha2023/ListaTvPeru
 - https://github.com/erumakun/iptv-peru
-- https://github.com/antholyber1a/lista-iptv-peru
+- https://github.com/antholyber1a/lista-iptv-peru - https://github.com/antholyber1a/hugo1/blob/main/hugo1
