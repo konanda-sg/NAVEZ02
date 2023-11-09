@@ -11,3 +11,4 @@ Non-commercial benefit!! Thank you for understanding!! :)
 - https://github.com/Ziber-t/FreeIpTvChannels
 - https://github.com/chinjuan/peru.m3u
 - https://github.com/dominiotv777/mejortv.m3u - https://github.com/dominiotv777/youtupremium
+- https://github.com/dmucha2023/ListaTvPeru
