@@ -252,6 +252,8 @@ https://www.youtube.com/watch?v=4pvh4R3MGbs&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhC
 #EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) Manchester City VS Young Boys  
 https://www.youtube.com/watch?v=-67MFHPmlwg&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=74
 
+#EXTINF:-1 tvg-id="PE | Liga 1 Max jctn" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
+https://e1.tiofutbol.com:442/live1/tracks-v1a1/mono.m3u8?remote=179.6.168.55&token=f847524a9bced9c47accc4322a0a062ffe473198-c2d7baf42fbc181b935b2c5067e07b89-1699511796-1699500996
 
 
 
